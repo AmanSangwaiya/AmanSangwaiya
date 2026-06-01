@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Aman Sangwaiya
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
+Email Me 👉 ✉️ **amanjnv455@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** AI/ML
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** amanjnv455@gmail.com
+- 😄 **Pronouns:** Aman
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_sangwaiya09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Www.linkedin.com/in/aman-sangwaiya-32012327a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanjnv455@gmail.com) 
 
@@ -8,6 +20,12 @@
 ![](https://github-readme-stats.shion.dev/api?username=AmanSangwaiya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AmanSangwaiya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmanSangwaiya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanSangwaiya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
