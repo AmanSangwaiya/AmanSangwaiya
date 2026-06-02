@@ -1,12 +1,8 @@
 # 💫 Hi 👋, I'm Aman Sangwaiya
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Problem Solver || Mern Developer || App Developer || AI/ML**
 
 Email Me 👉 ✉️ **amanjnv455@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** AI/ML
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** amanjnv455@gmail.com
 - 😄 **Pronouns:** Aman
